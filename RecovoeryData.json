@@ -3,10 +3,10 @@
 
   "data":[
     {
-      "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
-      "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
-      "AdmobNative" : "ca-app-pub-3940256099942544/2247696110",
-      "AdmobOpen" : "ca-app-pub-3940256099942544/3419835294",
+      "AdmobInterstitial":"ca-app-pub-3074941608132955/7532824360",
+      "AdmobBanner":"ca-app-pub-3074941608132955/7963235053",
+      "AdmobNative" : "ca-app-pub-3074941608132955/7348744112",
+      "AdmobOpen" : "ca-app-pub-3074941608132955/4323372944",
 
       "FanInterstitial":"1186974215550724_1191706268410852",
       "FanBanner":"1186974215550724_1191705981744214",
@@ -29,7 +29,7 @@
 
       "ActiveApp" : "yes",
 
-      "Switch":"fan"
+      "Switch":"admob"
 
 
     }
